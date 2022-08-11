@@ -1,0 +1,1 @@
+input capture를 이용하여 구현
